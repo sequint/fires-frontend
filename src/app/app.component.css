@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+.title {
+  font-family: 'Kalam', cursive;
+  color: #F2542D;
+  text-align: center;
+  font-size: 80px;
+}
